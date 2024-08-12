@@ -1,4 +1,5 @@
 ﻿Console.WriteLine(Addition.Add(7, 2));
+//Esta clase implementa la operacion suma
 public class Addition
 {
     public static int Add(int a, int b)
