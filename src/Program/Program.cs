@@ -10,3 +10,12 @@ public class Substraction
 }
 Console.WriteLine(Multiplication.Multiply(3, 3));
 Console.WriteLine(Division.Divide(18, 2));
+
+// Esta clase implementa la operación multiplicación
+public class Multiplication
+{
+    public static int Multiply(int a, int b)
+    {
+        return a * b;
+    }
+}
